@@ -1,0 +1,20 @@
+<%- include('osapohjat/header'); %>
+<table>
+    <tr>
+        <th>ID</th>
+        <th>Merkki ja malli</th>
+        <th>Vuosimalli</th>
+        <th>Omistaja</th>
+    </tr>
+        <% autot.forEach(auto => { %>
+        <tr id="k">
+            <td><%= auto.id %></td>
+            <td><%= auto.merkki %> <%= auto.malli %></td>
+            <td><%= auto.vuosimalli %></td>
+            <td><%= auto.omistaja %></td>
+        </tr>
+    <% }); %>
+</table>
+
+
+<%- include('osapohjat/footer', {otsikko : nimi}); %>

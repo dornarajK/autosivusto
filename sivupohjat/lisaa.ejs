@@ -1,0 +1,21 @@
+<%- include('osapohjat/header'); %>
+<h2>Lisää auto</h2>
+<div id="block">
+   <form action="/sub" id="" method="post">
+        <label for="merkki">Merkki:</label>
+        <input  id="merkki" class="teinp" type="text" placeholder="" name="merkki">
+        <br>
+        <label for="malli">Malli:</label>
+        <input  id="malli" class="teinp" type="text" placeholder="" name="malli">
+        <br>
+        <label for="vuosimalli">Vuosimalli:</label>
+        <input  id="vuosimalli" class="teinp" type="text" placeholder="" name="vuosimalli">
+        <br>
+        <label for="omistaja">Omistaja:</label>
+        <input  id="omistaja" class="teinp" type="text" placeholder="" name="omistaja">
+        <br>
+        <button type="submit"value="Hae" onclick="submit()" id="Hae">Lisää</button>
+</form>  
+</div>
+<%- include('osapohjat/footer', {otsikko : nimi}); %>
+

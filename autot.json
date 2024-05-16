@@ -1,0 +1,156 @@
+[
+  {
+    "id": 1,
+    "merkki": "Subaru",
+    "malli": "Impreza",
+    "vuosimalli": 2002,
+    "omistaja": "Klarika Meininking"
+  },
+  {
+    "id": 2,
+    "merkki": "Mercedes-Benz",
+    "malli": "SL-Class",
+    "vuosimalli": 2003,
+    "omistaja": "Alaine Gunningham"
+  },
+  {
+    "id": 3,
+    "merkki": "Kia",
+    "malli": "Spectra",
+    "vuosimalli": 2002,
+    "omistaja": "Hamlin Donet"
+  },
+  {
+    "id": 4,
+    "merkki": "Buick",
+    "malli": "Electra",
+    "vuosimalli": 1988,
+    "omistaja": "Conroy Heselwood"
+  },
+  {
+    "id": 5,
+    "merkki": "Mazda",
+    "malli": "Protege5",
+    "vuosimalli": 2003,
+    "omistaja": "Juliette Marple"
+  },
+  {
+    "id": 6,
+    "merkki": "Pontiac",
+    "malli": "Firebird",
+    "vuosimalli": 1990,
+    "omistaja": "Jay Ponten"
+  },
+  {
+    "id": 7,
+    "merkki": "Ford",
+    "malli": "Expedition",
+    "vuosimalli": 2003,
+    "omistaja": "Mill Turnock"
+  },
+  {
+    "id": 8,
+    "merkki": "Ford",
+    "malli": "Taurus",
+    "vuosimalli": 1989,
+    "omistaja": "Spenser MacGregor"
+  },
+  {
+    "id": 9,
+    "merkki": "Chevrolet",
+    "malli": "Malibu",
+    "vuosimalli": 2001,
+    "omistaja": "Flori Rickesies"
+  },
+  {
+    "id": 10,
+    "merkki": "Geo",
+    "malli": "Storm",
+    "vuosimalli": 1993,
+    "omistaja": "Brianna Shellibeer"
+  },
+  {
+    "id": 11,
+    "merkki": "Ford",
+    "malli": "Taurus",
+    "vuosimalli": 2006,
+    "omistaja": "Raimund Summerlee"
+  },
+  {
+    "id": 12,
+    "merkki": "Honda",
+    "malli": "Civic",
+    "vuosimalli": 1992,
+    "omistaja": "Lian Abramowsky"
+  },
+  {
+    "id": 13,
+    "merkki": "Jeep",
+    "malli": "Wrangler",
+    "vuosimalli": 2011,
+    "omistaja": "Drucill Tott"
+  },
+  {
+    "id": 14,
+    "merkki": "Lexus",
+    "malli": "RX",
+    "vuosimalli": 2008,
+    "omistaja": "Bev Alenichicov"
+  },
+  {
+    "id": 15,
+    "merkki": "Ford",
+    "malli": "Transit Connect",
+    "vuosimalli": 2011,
+    "omistaja": "Karl Maffeo"
+  },
+  {
+    "id": 16,
+    "merkki": "Infiniti",
+    "malli": "QX",
+    "vuosimalli": 2002,
+    "omistaja": "Natal Cremins"
+  },
+  {
+    "id": 17,
+    "merkki": "Audi",
+    "malli": "A8",
+    "vuosimalli": 2012,
+    "omistaja": "Orlando Naden"
+  },
+  {
+    "id": 18,
+    "merkki": "Buick",
+    "malli": "Riviera",
+    "vuosimalli": 1991,
+    "omistaja": "Brewster Trowsdale"
+  },
+  {
+    "id": 19,
+    "merkki": "Mazda",
+    "malli": "Mazda5",
+    "vuosimalli": 2012,
+    "omistaja": "Hervey Kilduff"
+  },
+  {
+    "id": 20,
+    "merkki": "Chevrolet",
+    "malli": "Corvette",
+    "vuosimalli": 1961,
+    "omistaja": "Janeva Wiggins"
+  },
+  {
+    "id": 21,
+    "merkki": "Subaru ",
+    "malli": "y",
+    "vuosimalli": "20001",
+    "omistaja": "d"
+  },
+  {
+    "id": 22,
+    "merkki": "tesla",
+    "malli": "y",
+    "vuosimalli": " 299",
+    "omistaja": "d"
+  }
+]
